@@ -28,7 +28,7 @@ android {
     compileSdkVersion 28
 
     if (project.android.hasProperty("namespace")) {
-        namespace "com.hiennv.flutter_callkit_incoming"
+        namespace "com.sayegh.move_to_background"
     }
 
     defaultConfig {
